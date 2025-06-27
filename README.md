@@ -1,2 +1,2 @@
-# Java-Spring-Boot-Angular
+# Java-Spring-Angular
 Curso de Java, Spring Boot y Angular
